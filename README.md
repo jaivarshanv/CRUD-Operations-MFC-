@@ -27,4 +27,4 @@ A simple command-line based Library Management System written in Python. This ap
 
 1. **Clone the repository:**
    ```bash
-   git clone  https://github.com/jaivarshanv/CRUD-Operations-MFC-/crud.py.git
+   git clone  https://github.com/jaivarshanv/CRUD-Operations-MFC-.git
